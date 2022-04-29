@@ -1,4 +1,7 @@
 # Social-Media-Discussion-Thread
+
+Development Time: Year 1, Semester 1 (2020)
+
 Developed a simple system in Python to maintain information about users and their posted articles in a social media. 
 
 In this project, a simple system is developed to maintain information about users
